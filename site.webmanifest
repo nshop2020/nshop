@@ -12,7 +12,20 @@
             "sizes": "512x512",
             "type": "image/png",
             "purpose": "N Shop"
+        },
+        {
+            "src": "https://blogger.googleusercontent.com/img/a/AVvXsEikE4HyiwiKExstf9FGixKuF28EOjUMO7yF6XlfuXjH0jz2Hoc_YFlEGWcObtuDriUfVR_54Me5Egzw8waHoZaD4MUiKD1Tv8GEAzbWQu0CGUnjzDRFRWx2K_0Ra_FFcAC826Zh7MXj0Fegbm3b_bGrXY1A1K8Ag6p0ibOj71Qj28-SoKalgGoKUNF9mw=w32-h32",
+            "sizes": "32x32",
+            "type": "image/png",
+            "purpose": "N Shop"
+        },
+        {
+            "src": "https://blogger.googleusercontent.com/img/a/AVvXsEikE4HyiwiKExstf9FGixKuF28EOjUMO7yF6XlfuXjH0jz2Hoc_YFlEGWcObtuDriUfVR_54Me5Egzw8waHoZaD4MUiKD1Tv8GEAzbWQu0CGUnjzDRFRWx2K_0Ra_FFcAC826Zh7MXj0Fegbm3b_bGrXY1A1K8Ag6p0ibOj71Qj28-SoKalgGoKUNF9mw=w32-h32",
+            "sizes": "16x16",
+            "type": "image/png",
+            "purpose": "N Shop"
         }
+
     ],
     "theme_color": "#ffffff",
     "background_color": "#ffffff",
